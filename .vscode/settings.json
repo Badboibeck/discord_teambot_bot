@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+		"editor.insertSpaces": false,
+		"cSpell.words": [
+			"discordjs"
+		]
+}
